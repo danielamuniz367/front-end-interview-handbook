@@ -58,7 +58,7 @@ For components, list down the various subcomponents that will exist within it an
 Let's take an image carousel example. Subcomponents within an image carousel would be:
 
 - Main image - An image that displays the photo in focus
-- Thumbnail - Smaller images below the (Will there be thumbnails? You will only know if you clarified requirements earlier)
+- Thumbnail - Smaller images below the main image (Will there be thumbnails? You will only know if you clarified requirements earlier)
 - Image store - A client side cache of the list of photos to display
 
 If you have a whiteboard/online drawing tool, it would also be helpful to draw diagrams to illustrate the entities and their relationships. Which subcomponent communicates with which when a user interaction occurs.
